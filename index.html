@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Railway Reservation System</title>
+    <style>
+        body { font-family: Arial; margin: 20px; }
+        h2, h3 { margin-bottom: 10px; }
+        input, button { margin: 5px; padding: 6px; }
+        .train, .booking { border: 1px solid #ccc; padding: 10px; margin: 5px 0; }
+    </style>
+</head>
+<body>
+
+<h2>Railway Reservation System</h2>
+
+<h3>Available Trains</h3>
+<div id="trainList"></div>
+
+<h3>Book Seat</h3>
+<input type="number" id="trainId" placeholder="Train ID">
+<input type="text" id="name" placeholder="Passenger Name">
+<button onclick="bookSeat()">Book</button>
+
+<h3>Cancel Booking</h3>
+<input type="number" id="cancelId" placeholder="Booking ID">
+<button onclick="cancelBooking()">Cancel</button>
+
+<h3>All Bookings</h3>
+<div id="bookingList"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
