@@ -7,7 +7,7 @@ Build a simple web-based railway reservation system that allows users to:
 - Cancel a booking
 - View booking details
 
-## 2. Functional Requirements
+## 2. Functional Requirements 
 
 ### FR1 — Train Listing
 The system must display a list of available trains, including:
