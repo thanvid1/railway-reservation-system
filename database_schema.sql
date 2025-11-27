@@ -3,7 +3,7 @@
 CREATE TABLE trains (
     train_id INT PRIMARY KEY,
     train_name VARCHAR(50),
-    source VARCHAR(50),
+    source VARCHAR(50), 
     destination VARCHAR(50),
     departure_time VARCHAR(20)
 );
