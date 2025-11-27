@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Express 101",
+        "from": "Udupi",
+        "to": "Mangalore",
+        "time": "09:00 AM"
+    },
+    {
+        "id": 2,
+        "name": "Fast 202",
+        "from": "Udupi",
+        "to": "Bengaluru",
+        "time": "02:30 PM"
+    }
+]
