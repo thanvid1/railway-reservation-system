@@ -1,0 +1,43 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+
+h2 {
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.box {
+    border: 1px solid #aaa;
+    padding: 15px;
+    width: 300px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+input {
+    padding: 6px;
+    width: 90%;
+}
+
+.btn {
+    display: inline-block;
+    padding: 8px 12px;
+    margin: 5px 0;
+    background: #0066cc;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #004d99;
+}
+
+p {
+    font-size: 14px;
+    color: green;
+}
