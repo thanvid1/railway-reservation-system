@@ -3,7 +3,7 @@
 ## 1. Objective
 Build a simple web-based railway reservation system that allows users to:
 - View available trains
-- Book a seat
+- Book a seat 
 - Cancel a booking 
 - View booking details
 
