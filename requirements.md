@@ -4,7 +4,7 @@
 Build a simple web-based railway reservation system that allows users to:
 - View available trains
 - Book a seat
-- Cancel a booking
+- Cancel a booking 
 - View booking details
 
 ## 2. Functional Requirements 
